@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1652975809 source:c:\users\balde boubacar\desktop\gestiondes_verbe\main.cpp
+	"gestion_verbe.h"
+	<windows.h>
+	<string>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
+1652978092 c:\users\balde boubacar\desktop\gestiondes_verbe\gestion_verbe.h
+	<iomanip>
+	<windows.h>
+	<iostream>
+
+1654325936 source:c:\users\negro\desktop\gestiondes_verbe\main.cpp
+	"gestion_verbe.h"
+
+1654326127 c:\users\negro\desktop\gestiondes_verbe\gestion_verbe.h
+	"Programe.h"
+
+1654049502 c:\users\negro\desktop\gestiondes_verbe\programe.h
+	"Menbre.h"
+
+1654333633 c:\users\negro\desktop\gestiondes_verbe\menbre.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<ctime>
+
